@@ -1,0 +1,8 @@
+- use command:
+    docker compose up -d
+- install packages
+
+    pip install -qU langchain-community pypdf
+    pip install -U langchain-text-splitters
+
+    or pip install -r requirements.txt if requirements.txt is present
